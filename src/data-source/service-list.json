@@ -1,0 +1,199 @@
+{
+    "data": [
+        {
+            "selected":false,
+            "img":"img-pirate",
+            "title":"PIRATE PLAN",
+            "text1":"Lifetime update",
+            "text2":"Daily rewards",
+            "text3":"Annually report",
+            "priceText":"IDR 950.000",
+            "smallText":"per month",
+            "styles": {
+                "priceTextStyle": {
+                    "color":"#e34b38"
+                },
+                "selectedCard": {
+                    "cardStyle": {
+                        "width": "15rem",
+                        "backgroundColor":"#d8dce2"
+                    },
+                    "dividerStyle": {
+                        "height": "2px",
+                        "width": "80%",
+                        "backgroundColor": "black"
+                    },
+                    "titleStyle": {
+                        "color": "black"
+                    },
+                    "text1Style": {
+                        "color": "black"
+                    },
+                    "text2Style": {
+                        "color": "black"
+                    },
+                    "text3Style": {
+                        "color": "black"
+                    },
+                    "smallTextStyle": {
+                        "color": "black"
+                    }
+                },
+                "cardStyle": {
+                    "width": "15rem",
+                    "backgroundColor":"#38495d"
+                },
+                "dividerStyle": {
+                    "height": "2px",
+                    "width": "80%",
+                    "backgroundColor": "white"
+                },
+                "titleStyle": {
+                    "color": "white"
+                },
+                "text1Style": {
+                    "color": "white"
+                },
+                "text2Style": {
+                    "color": "white"
+                },
+                "text3Style": {
+                    "color": "white"
+                },
+                "smallTextStyle": {
+                    "color": "white"
+                }
+            }
+        },
+        {
+            "selected":false,
+            "img":"img-catman",
+            "title":"CATMAN PLAN",
+            "text1":"Lifetime update",
+            "text2":"Daily rewards",
+            "text3":"Annually report",
+            "priceText":"IDR 1.590.000",
+            "smallText":"per month",
+            "styles": {
+                "priceTextStyle": {
+                    "color":"#3b7da0"
+                },
+                "selectedCard": {
+                    "cardStyle": {
+                        "width": "15rem",
+                        "backgroundColor":"#d8dce2"
+                    },
+                    "dividerStyle": {
+                        "height": "2px",
+                        "width": "80%",
+                        "backgroundColor": "black"
+                    },
+                    "titleStyle": {
+                        "color": "black"
+                    },
+                    "text1Style": {
+                        "color": "black"
+                    },
+                    "text2Style": {
+                        "color": "black"
+                    },
+                    "text3Style": {
+                        "color": "black"
+                    },
+                    "smallTextStyle": {
+                        "color": "black"
+                    }
+                },
+                "cardStyle": {
+                    "width": "15rem",
+                    "backgroundColor":"#38495d"
+                },
+                "dividerStyle": {
+                    "height": "2px",
+                    "width": "80%",
+                    "backgroundColor": "white"
+                },
+                "titleStyle": {
+                    "color": "white"
+                },
+                "text1Style": {
+                    "color": "white"
+                },
+                "text2Style": {
+                    "color": "white"
+                },
+                "text3Style": {
+                    "color": "white"
+                },
+                "smallTextStyle": {
+                    "color": "white"
+                }
+            }
+        },
+        {
+            "selected":false,
+            "img":"img-champ",
+            "title":"CHAMP PLAN",
+            "text1":"Lifetime update",
+            "text2":"Daily rewards",
+            "text3":"Annually report",
+            "priceText":"IDR 4.590.000",
+            "smallText":"per month",
+            "styles": {
+                "priceTextStyle": {
+                    "color":"#fe9425"
+                },
+                "selectedCard": {
+                    "cardStyle": {
+                        "width": "15rem",
+                        "backgroundColor":"#d8dce2"
+                    },
+                    "dividerStyle": {
+                        "height": "2px",
+                        "width": "80%",
+                        "backgroundColor": "black"
+                    },
+                    "titleStyle": {
+                        "color": "black"
+                    },
+                    "text1Style": {
+                        "color": "black"
+                    },
+                    "text2Style": {
+                        "color": "black"
+                    },
+                    "text3Style": {
+                        "color": "black"
+                    },
+                    "smallTextStyle": {
+                        "color": "black"
+                    }
+                },
+                "cardStyle": {
+                    "width": "15rem",
+                    "backgroundColor":"#38495d"
+                },
+                "dividerStyle": {
+                    "height": "2px",
+                    "width": "80%",
+                    "backgroundColor": "white"
+                },
+                "titleStyle": {
+                    "color": "white"
+                },
+                "text1Style": {
+                    "color": "white"
+                },
+                "text2Style": {
+                    "color": "white"
+                },
+                "text3Style": {
+                    "color": "white"
+                },
+                "smallTextStyle": {
+                    "color": "white"
+                }
+            }
+        }
+    ]
+}

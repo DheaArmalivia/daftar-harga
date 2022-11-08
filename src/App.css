@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  background: #38495e;
 }
 
 .App-logo {
@@ -35,4 +36,45 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.item {
+  text-align: center;
+}
+
+.item.card {
+  background-color: #38495d;
+  border: 2px solid #778392;
+}
+
+hr.mx-3.my-1 {
+  border: 2px solid #778392;
+}
+
+
+.img-catman {
+  width:100px;
+  height:100px;
+  display:inline-block;
+  background:#3b7da0;
+  -webkit-mask:url("../public/img/github.png") center/contain;
+          mask:url("../public/img/github.png") center/contain;
+}
+
+.img-pirate {
+  width:100px;
+  height:100px;
+  display:inline-block;
+  background:#e34b38;
+  -webkit-mask:url("../public/img/rudder.png") center/contain;
+          mask:url("../public/img/rudder.png") center/contain;
+}
+
+.img-champ {
+  width:100px;
+  height:100px;
+  display:inline-block;
+  background:#fe9425;
+  -webkit-mask:url("../public/img/badge.png") center/contain;
+          mask:url("../public/img/badge.png") center/contain;
 }
