@@ -21,7 +21,8 @@
                     "dividerStyle": {
                         "height": "2px",
                         "width": "80%",
-                        "backgroundColor": "black"
+                        "backgroundColor": "black",
+                        "margin":"auto"
                     },
                     "titleStyle": {
                         "color": "black"
@@ -46,7 +47,8 @@
                 "dividerStyle": {
                     "height": "2px",
                     "width": "80%",
-                    "backgroundColor": "white"
+                    "backgroundColor": "white",
+                    "margin":"auto"
                 },
                 "titleStyle": {
                     "color": "white"
@@ -86,7 +88,8 @@
                     "dividerStyle": {
                         "height": "2px",
                         "width": "80%",
-                        "backgroundColor": "black"
+                        "backgroundColor": "black",
+                        "margin":"auto"
                     },
                     "titleStyle": {
                         "color": "black"
@@ -111,7 +114,8 @@
                 "dividerStyle": {
                     "height": "2px",
                     "width": "80%",
-                    "backgroundColor": "white"
+                    "backgroundColor": "white",
+                    "margin":"auto"
                 },
                 "titleStyle": {
                     "color": "white"
@@ -151,7 +155,8 @@
                     "dividerStyle": {
                         "height": "2px",
                         "width": "80%",
-                        "backgroundColor": "black"
+                        "backgroundColor": "black",
+                        "margin":"auto"
                     },
                     "titleStyle": {
                         "color": "black"
@@ -176,7 +181,8 @@
                 "dividerStyle": {
                     "height": "2px",
                     "width": "80%",
-                    "backgroundColor": "white"
+                    "backgroundColor": "white",
+                    "margin":"auto"
                 },
                 "titleStyle": {
                     "color": "white"
