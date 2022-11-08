@@ -53,8 +53,8 @@ hr.mx-3.my-1 {
 
 
 .img-catman {
-  width:100px;
-  height:100px;
+  width:80px;
+  height:80px;
   display:inline-block;
   background:#3b7da0;
   -webkit-mask:url("../public/img/github.png") center/contain;
@@ -62,8 +62,8 @@ hr.mx-3.my-1 {
 }
 
 .img-pirate {
-  width:100px;
-  height:100px;
+  width:80px;
+  height:80px;
   display:inline-block;
   background:#e34b38;
   -webkit-mask:url("../public/img/rudder.png") center/contain;
@@ -71,8 +71,8 @@ hr.mx-3.my-1 {
 }
 
 .img-champ {
-  width:100px;
-  height:100px;
+  width:80px;
+  height:80px;
   display:inline-block;
   background:#fe9425;
   -webkit-mask:url("../public/img/badge.png") center/contain;

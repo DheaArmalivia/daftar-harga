@@ -56,6 +56,7 @@ function MainPage() {
 
   return (
     <div>
+      
       <div>
         <ListComponent 
         dataList={dataList.data} 
@@ -63,8 +64,12 @@ function MainPage() {
         ></ListComponent>
       </div>
       <hr style={{border: '2px solid white'}}></hr>
-      <div style={{textAlign: 'center', padding: 25}}>
+      <div style={{textAlign: 'center', padding: 24}}>
         <h4 style={{color: 'white'}}>Selected Plan : {plan.title}</h4>
+      </div>
+      <div style={{color: 'white', padding: 10}}>
+        <h6>Nama : Dhea Armalivia Airizah | NIM : 2301962061</h6>
+        
       </div>
     </div>
   );

@@ -21,7 +21,7 @@
                     "dividerStyle": {
                         "height": "2px",
                         "width": "80%",
-                        "backgroundColor": "black",
+                        "backgroundColor": "#778392",
                         "margin":"auto"
                     },
                     "titleStyle": {
@@ -47,7 +47,7 @@
                 "dividerStyle": {
                     "height": "2px",
                     "width": "80%",
-                    "backgroundColor": "white",
+                    "backgroundColor": "#778392",
                     "margin":"auto"
                 },
                 "titleStyle": {
@@ -88,7 +88,7 @@
                     "dividerStyle": {
                         "height": "2px",
                         "width": "80%",
-                        "backgroundColor": "black",
+                        "backgroundColor": "#778392",
                         "margin":"auto"
                     },
                     "titleStyle": {
@@ -114,7 +114,7 @@
                 "dividerStyle": {
                     "height": "2px",
                     "width": "80%",
-                    "backgroundColor": "white",
+                    "backgroundColor": "#778392",
                     "margin":"auto"
                 },
                 "titleStyle": {
@@ -155,7 +155,7 @@
                     "dividerStyle": {
                         "height": "2px",
                         "width": "80%",
-                        "backgroundColor": "black",
+                        "backgroundColor": "#778392",
                         "margin":"auto"
                     },
                     "titleStyle": {
@@ -181,7 +181,7 @@
                 "dividerStyle": {
                     "height": "2px",
                     "width": "80%",
-                    "backgroundColor": "white",
+                    "backgroundColor": "#778392",
                     "margin":"auto"
                 },
                 "titleStyle": {
