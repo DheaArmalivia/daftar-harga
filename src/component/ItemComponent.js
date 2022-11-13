@@ -51,7 +51,6 @@ function ItemComponent(props) {
             >
             <CardBody>
                 <div className={data.img}></div>
-                {/* <h5 style={data.styles.titleStyle}>{data.title}</h5> */}
                 <h5 style=
                 {data.selected ? 
                     data.styles.selectedCard.titleStyle : 
@@ -63,9 +62,6 @@ function ItemComponent(props) {
                 data.styles.dividerStyle}
             ></div>
             <CardBody>
-                {/* <span style={data.styles.text1Style}>{data.text1}</span><br/>
-                <span style={data.styles.text2Style}>{data.text2}</span><br/>
-                <span style={data.styles.text3Style}>{data.text3}</span><br/> */}
                 <span style={data.selected ? 
                     data.styles.selectedCard.text1Style : 
                     data.styles.text1Style}
@@ -85,7 +81,6 @@ function ItemComponent(props) {
             ></div>
             <CardBody>
                 <h5 style={data.styles.priceTextStyle}>{data.priceText}</h5>
-                {/* <small style={data.styles.smallTextStyle}>{data.smallText}</small> */}
                 <small style={data.selected ? 
                     data.styles.selectedCard.smallTextStyle : 
                     data.styles.smallTextStyle}
